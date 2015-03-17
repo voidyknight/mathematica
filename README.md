@@ -1,6 +1,8 @@
 # mathematica
 Game plan for presentation
 
+As Mathematica is an online service, we need not have any files on this repo (we will just enter the website on the day of)
+
 Essentially, we will be live coding for the majority of the presentation
 
 We will start off with the simple stuff (everything is a function, we can set variables to anything, we can evaluate anything at any point, things are organized in clusters, etc)
